@@ -1,2 +1,2 @@
-# argocd-springboot-service
+# About
 Simple springboot service for argocd application on kubernetes cluster
